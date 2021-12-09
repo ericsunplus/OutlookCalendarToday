@@ -26,10 +26,10 @@ for item in calendar:
 print(t)
 
 #
-# olResponseNone	        0	The appointment is a simple appointment and does not require a response.
-# olResponseOrganized	    1	The AppointmentItem is on the Organizer's calendar or the recipient is the Organizer of the meeting.
-# olResponseTentative	    2	Meeting tentatively accepted.
-# olResponseAccepted	    3	Meeting accepted.
-# olResponseDeclined	    4	Meeting declined.
-# olResponseNotResponded	5	Recipient has not responded.
+# olResponseNone            0   The appointment is a simple appointment and does not require a response.
+# olResponseOrganized       1   The AppointmentItem is on the Organizer's calendar or the recipient is the Organizer of the meeting.
+# olResponseTentative       2   Meeting tentatively accepted.
+# olResponseAccepted        3   Meeting accepted.
+# olResponseDeclined        4   Meeting declined.
+# olResponseNotResponded    5   Recipient has not responded.
 #
